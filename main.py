@@ -126,5 +126,5 @@ if __name__ == '__main__':
 
     # uncoment this function
     # valid_autis(image_path_valid_autistic)
-    valid_autis(image_path_valid_non_autistic)
+    # valid_autis(image_path_valid_non_autistic)
 
