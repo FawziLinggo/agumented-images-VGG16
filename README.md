@@ -12,3 +12,7 @@
 
 # Link Dataset
 [click to Download](https://drive.google.com/file/d/1HAeCIBUdCby4vkyT4E5L2yqxG_tiJx50/view?usp=sharing)
+
+if you have downloaded it, you will see the directory arrangement like this :
+
+![img.png](Documentation/img1.png)
