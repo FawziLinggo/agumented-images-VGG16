@@ -11,4 +11,4 @@
 
 
 # Link Dataset
-[Klik to Download](https://drive.google.com/file/d/1HAeCIBUdCby4vkyT4E5L2yqxG_tiJx50/view?usp=sharing)
+[click to Download](https://drive.google.com/file/d/1HAeCIBUdCby4vkyT4E5L2yqxG_tiJx50/view?usp=sharing)
