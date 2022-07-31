@@ -3,6 +3,7 @@
 2. Open this project as root in Python IDE
 3. Install requirements.txt```pip install -r requirements.txt```
 4. Uncomment this conntent
+
 ![img.png](Documentation/img.png)
 
 5. execute ```main.py``` to run the augmented images
