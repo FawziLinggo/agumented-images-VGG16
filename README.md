@@ -16,3 +16,14 @@
 if you have downloaded it, you will see the directory arrangement like this :
 
 ![img.png](Documentation/img1.png)
+
+### Augmented Images Test
+Test: accuracy = 0.833333  ;  loss = 0.429308
+
+![lossAugmented](parameter/lossAugmented.png)
+![accAugmented](parameter/accAugmented.png)
+
+### Normal Image Test
+Test: accuracy = 0.812500  ;  loss = 0.488956 
+![lossNormal](parameter/lossNormal.png)
+![accNormal](parameter/accNormal.png)
