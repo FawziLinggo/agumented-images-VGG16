@@ -33,5 +33,11 @@ Test: accuracy = 0.833333  ;  loss = 0.429308
 
 ### Normal Image Test
 Test: accuracy = 0.812500  ;  loss = 0.488956 
+- array([[169,  16],[ 17,  98]])
+- Precision:  0.8596491228070176 
+- Recall:  0.8521739130434782
+
 ![lossNormal](parameter/lossNormal.png)
 ![accNormal](parameter/accNormal.png)
+![CM-normal.png](parameter/CM-normal.png)
+![ROC-normal.png](parameter/ROC-normal.png)
