@@ -18,10 +18,18 @@ if you have downloaded it, you will see the directory arrangement like this :
 ![img.png](Documentation/img1.png)
 
 ### Augmented Images Test
+#### Found 1016 validated image filenames.
+
 Test: accuracy = 0.833333  ;  loss = 0.429308
+- Precision:  0.945823927765237
+- Recall:  0.945823927765237
+- array ([[549,  24],[ 24, 419]])
 
 ![lossAugmented](parameter/lossAugmented.png)
 ![accAugmented](parameter/accAugmented.png)
+![CM-augmented](parameter/CM-augmented.png)
+![ROC-augmented.png](parameter/ROC-augmented.png)
+
 
 ### Normal Image Test
 Test: accuracy = 0.812500  ;  loss = 0.488956 
